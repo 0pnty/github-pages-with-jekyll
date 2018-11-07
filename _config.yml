@@ -1,6 +1,6 @@
 ---
-title: "Title1"
-date: 2018-11-06
+title: "Your blog post title"
+date: 2018-11-01
 ---
 
 title: Fitst git blog
@@ -18,4 +18,3 @@ github_username:  0pnty
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
-
