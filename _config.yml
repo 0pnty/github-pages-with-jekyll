@@ -1,5 +1,5 @@
 ---
-title: "Fitst git blog"
+title: "Title1"
 date: 2018-11-06
 ---
 
@@ -16,4 +16,4 @@ github_username:  0pnty
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
----
+
